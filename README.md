@@ -10,7 +10,7 @@
 [License](#license)
 
 ## **Description**
-This app was developed as a sage place workout social platform. This is done through a database of workouts that are displayed on the homepage toegther. Here users are able to sort by cateogry to fit their needs and create a workout plan that is accessible to them. It allows the user to create an account. This will alow them to create a workout and add a category. When created the workout then will allow users to comment on it to share their thoughts and inspirations, or they can favorite a workout which allows them to save it for later and come back to it whenever they want.
+This app was developed as a safe place workout social platform. This is done through a database of workouts that are displayed on the homepage toegther. Here users are able to sort by cateogry to fit their needs and create a workout plan that is accessible to them. It allows the user to create an account. This will alow them to create a workout and add a category. When created the workout then will allow users to comment on it to share their thoughts and inspirations, or they can favorite a workout which allows them to save it for later and come back to it whenever they want.
 
 ### **Features**
 * Post and share your workouts for others to see
